@@ -1,0 +1,7 @@
+scikit-learn
+pandas
+joblib
+mlflow
+gradio
+seaborn
+pytest
